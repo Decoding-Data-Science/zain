@@ -1,3 +1,6 @@
+
+https://huggingface.co/spaces/decodingdatascience/newrag-pine
+
 # 📞 Telecom Customer Support LLM with Groq API
 
 This project demonstrates how to build a fast, production-grade AI-powered telecom customer support assistant using the **Groq API** and optimized GenAI configurations.
